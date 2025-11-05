@@ -1,11 +1,17 @@
 # Data Trustworthiness in Critical Infrastructures Protection
 
 **Author:** Federica Uccello
+
 **Degree:** PhD in Information and Communication Technology and Engineering
+
 **Institution:** University of Naples Parthenope  
+
 **Current Affiliation:** Linköping University  
+
 **Year of Defense:** 2024 
+
 **License:** TBA 
+
 **DOI:** TBA 
 
 ---
