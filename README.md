@@ -10,9 +10,10 @@
 
 **Year of Defense:** 2024 
 
-**License:** TBA 
+**DOI:** [10.5281/zenodo.17531888](https://doi.org/10.5281/zenodo.17531888)  
 
-**DOI:** TBA 
+**License:** CC BY 4.0  
+
 
 ---
 
