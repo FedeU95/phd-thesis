@@ -41,7 +41,7 @@ threats that could otherwise have catastrophic consequences.
 
 This repository contains the **digital version of my PhD thesis** completed at the University of Naples Parthenope.  
 It includes:
-- The full thesis PDF PhD_Thesis_Uccello`)
+- The full thesis PDF (`PhD_Thesis_Uccello.pdf`)
 - Citation metadata (`CITATION.cff`)
 
 For an officially archived version with DOI, see:
