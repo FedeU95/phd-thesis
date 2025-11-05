@@ -10,9 +10,9 @@ version: "1.0"
 type: thesis
 identifiers:
   - type: doi
-    value: "TBA"
+    value: "10.5281/zenodo.17531888"
 repository-code: "https://github.com/fedeuccello/phd-thesis"
-license: "TBA"
+license: "CC-BY-4.0"
 abstract: >
   Critical Infrastructures (CIs) form the backbone of modern societies, ensuring the delivery
   of vital goods and services, and their disruption can have profound implications for both
